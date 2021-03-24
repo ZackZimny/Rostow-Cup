@@ -1,0 +1,190 @@
+
+Algeria
+Angola
+Benin
+Botswana
+Burkina Faso
+Burundi
+Cameroon
+Cabo Verde
+Central African Republic
+Chad
+Comoros
+Congo, Rep.
+Congo, Dem. Rep.
+Djibouti
+Egypt, Arab Rep.
+Equatorial Guinea
+Eritrea
+Ethiopia
+Gabon
+Gambia, The
+Ghana
+Guinea
+Guinea-Bissau
+Cote d'Ivoire
+Kenya
+Lesotho
+Liberia
+Libya
+Madagascar
+Malawi
+Mali
+Mauritania
+Mauritius
+Morocco
+Mozambique
+Namibia
+Niger
+Nigeria
+Rwanda
+Sao Tome and Principe
+Senegal
+Seychelles
+Sierra Leone
+Somalia
+South Africa
+South Sudan
+Sudan
+Eswatini
+Tanzania
+Togo
+Tunisia
+Uganda
+Zambia
+Zimbabwe
+Afghanistan
+Bahrain
+Bangladesh
+Bhutan
+Brunei Darussalam
+Myanmar
+Cambodia
+China
+Timor-Leste
+India
+Indonesia
+Iran, Islamic Rep.
+Iraq
+Israel
+Japan
+Jordan
+Kazakhstan
+Korea, Rep.
+Korea, South
+Kuwait
+Kyrgyz Republic
+Lao PDR
+Lebanon
+Malaysia
+Maldives
+Mongolia
+Nepal
+Oman
+Pakistan
+Philippines
+Qatar
+Saudi Arabia
+Singapore
+Sri Lanka
+Syrian Arab Republic
+Tajikistan
+Thailand
+Turkey
+Turkmenistan
+United Arab Emirates
+Uzbekistan
+Vietnam
+Yemen, Rep.
+Albania
+Andorra
+Armenia
+Austria
+Azerbaijan
+Belarus
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Georgia
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Italy
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+North Macedonia
+Malta
+Moldova
+Monaco
+Montenegro
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Russian Federation
+San Marino
+Serbia
+Slovak Republic
+Slovenia
+Spain
+Sweden
+Switzerland
+Ukraine
+United Kingdom
+Argentina
+Bahamas, The
+Barbados
+Belize
+Bolivia
+Brazil
+Chile
+Costa Rica
+Colombia
+Cuba
+Dominican Republic
+Ecuador
+El Salvador
+Grenada
+Guatemala
+Guyana
+Haiti
+Honduras
+Jamaica
+Mexico
+Nicaragua
+Panama
+Paraguay
+Peru
+Suriname
+Trinidad and Tobago
+Uruguay
+Venezuela, RB
+Australia
+Canada
+Fiji
+Kiribati
+Marshall Islands
+Micronesia, Fed. Sts.
+Nauru
+New Zealand
+Palau
+Papua New Guinea
+Samoa
+Solomon Islands
+Tonga
+Tuvalu
+United States
+Vanuatu
+
